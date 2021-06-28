@@ -6,7 +6,7 @@ using UnityEngine.Events;
 public class SimpleTrigger : MonoBehaviour
 {
 
-    public Rigidbody triggerBody; 
+    public Rigidbody triggerBody;
     public UnityEvent onTriggerEnter;
 
 
